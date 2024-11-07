@@ -219,6 +219,7 @@
     margin: 0px;
     color: rgb(51, 50, 50);
     padding: 5px;
+    text-decoration: none;
   }
   span{
     font-weight: bold;
@@ -527,6 +528,11 @@
   
     .project1__txt {
       padding: 20px;
+    }
+    .project__left{
+      /* display: flex;
+      justify-content: center; */
+      margin-left: 39px;
     }
     .project1__img {
       display: flex;
